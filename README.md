@@ -1,4 +1,4 @@
-![Profile Banner](https://tenor.com/it/view/aaaa-gif-8677502227796275419)
+![Profile Banner](https://imgur.com/a/d3pfNbk)
 
 ---
 
