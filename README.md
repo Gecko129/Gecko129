@@ -32,10 +32,10 @@ always learning, always building — and open to collaborating on meaningful tec
 
 | project | description | tech |
 |-----------|----------------|---------|
-| 🎯 **SeveriCraft Discord Bot** | Advanced GPT-powered Discord bot with ticket system, AI automoderation, role management, and real-time Minecraft server status. | `Python`, `Nextcord`, `OpenAI`, `PostgreSQL` |
-| 🌐 **SeveriCraft Website** | Official website for the SeveriCraft Minecraft community. [Visit site](https://severicraft.it) [Repo](https://github.com/Gianlu1107/severicraft-website?tab=readme-ov-file) | `HTML`, `CSS`, `JavaScript` |
-| 📱 **BikeTracking** | Android app with GPS, speed & stats made for cyclists | `Kotlin`, `Jetpack`, `Location API` |
-| 🤖 **Gesture Recognition** | Arduino + ultrasonic sensor project for real-time hand gesture recognition via Machine Learning | [Repo](https://github.com/Gecko129/ultrasonic_sensor_gesture_detector) | `Arduino`, `Python` |
+|  **SeveriCraft Discord Bot** | Advanced GPT-powered Discord bot with ticket system, AI automoderation, role management, and real-time Minecraft server status. | `Python`, `Nextcord`, `OpenAI`, `PostgreSQL` |
+|  **SeveriCraft Website** | Official website for the SeveriCraft Minecraft community. [Visit site](https://severicraft.it) [Repo](https://github.com/Gianlu1107/severicraft-website?tab=readme-ov-file) | `HTML`, `CSS`, `JavaScript` |
+|  **BikeTracking** | Android app with GPS, speed & stats made for cyclists | `Kotlin`, `Jetpack`, `Location API` |
+|  **Gesture Recognition** | Arduino + ultrasonic sensor project for real-time hand gesture recognition via Machine Learning [Repo](https://github.com/Gecko129/ultrasonic_sensor_gesture_detector) | `Arduino`, `Python` |
 
 
 
