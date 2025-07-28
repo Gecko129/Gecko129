@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/VNP2tTx.gif" alt="Banner coding" width="700"/>
-</p>
+![Profile Banner](https://i.imgur.com/VNP2tTx.gif)
 
 ---
 
