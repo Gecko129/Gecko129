@@ -1,4 +1,4 @@
-![Profile Banner](https://imgur.com/a/d3pfNbk)
+![Profile Banner](https://i.imgur.com/XwEjqih.gif)
 
 ---
 
