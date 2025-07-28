@@ -5,7 +5,7 @@
 ## 🧠 about me
 
 heyaa, i'm filippo — a 15 y/o developer passionate about building open source intelligent systems, hardware-integrated projects, and full-stack applications.
-i work mainly with python, js, html/css, c++, and explore kotlin, swift, and machine learning.
+i work mainly with python, javascript, html/css, c++, and expanding my skills in kotlin, swift, and machine learning.
 always learning, always building — and open to collaborating on meaningful tech projects.
 
 ---
