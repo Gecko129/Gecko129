@@ -2,14 +2,6 @@
 
 ---
 
-## 🧠 about me
-
-heyaa, i'm filippo — a 15 y/o developer passionate about building open source intelligent systems, hardware-integrated projects, and full-stack applications.
-i work mainly with python, javascript, html/css, c++, and expanding my skills in kotlin, swift, and react.
-always learning, always building — and open to collaborating on meaningful tech projects.
-
----
-
 ## 🚀 tools & technologies
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,9 +36,5 @@ always learning, always building — and open to collaborating on meaningful tec
 
 
 
----
 
-<p align="center">
-  <i>“Build what you can’t find. Automate what you repeat. Learn while doing.”</i>
-</p>
 
